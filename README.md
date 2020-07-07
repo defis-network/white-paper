@@ -2,7 +2,7 @@
 # DeFis Network: an open financial network connecting DeFi protocols
 
 v1.0 Jun 24 2020
-Translations: [中文]()
+Translations: [中文](https://github.com/defis-network/white-paper/blob/master/whitepaper_cn.md)
 
 ## Abstract
 
